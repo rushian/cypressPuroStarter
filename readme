@@ -1,0 +1,3 @@
+# Para rodar:
+
+npx cypress run --spec 'cypress/e2e/transacoes/transacoes.cy.js' 

@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-context('Cadastrar nova transacao', () => {
+describe('Cadastrar nova transacao', () => {
     beforeEach(() => {
       cy.visit('/')
     })
